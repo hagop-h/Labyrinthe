@@ -12,11 +12,9 @@ The Labyrinthe project is a Java implementation of a maze-solving algorithm and 
 ### Labyrinthe
 - **AStar(Graph graph, int start, int end, int ncols, int numberV):** Implements the A* algorithm to find the optimal path from the starting point to the destination.
 - **Dijkstra(Graph graph, int start, int end, int ncols, int numberV):** Implements the Dijkstra algorithm to find the optimal path from the starting point to the destination.
-- ... (Details of other methods)
 
 ## Algorithm Choice: AStar and Dijkstra
 - **Heuristic (A*):** A* uses a heuristic based on Euclidean distance, providing an efficient approach to guide the search towards the destination.
-- ... (Details of other algorithm choices)
 
 ## Usage
 1. Enter the number of instances and maze dimensions.
